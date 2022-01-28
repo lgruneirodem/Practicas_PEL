@@ -1,0 +1,3 @@
+C:/Users/leti/CLionProjects/Ejercicio_ArchivosTXT/cmake-build-debug/CMakeFiles/Ejercicio_ArchivosTXT.dir
+C:/Users/leti/CLionProjects/Ejercicio_ArchivosTXT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leti/CLionProjects/Ejercicio_ArchivosTXT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
